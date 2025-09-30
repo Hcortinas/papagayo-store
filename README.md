@@ -19,7 +19,7 @@
 - **phpMyAdmin** para administración
 
 ## 📸 Demo
-![Inventario](screenshots/inventario.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ---
 ⭐ **Proyecto educativo** — Datos de ejemplo y sin credenciales reales.
