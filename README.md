@@ -17,6 +17,7 @@
 - **Bootstrap**
 - **JavaScript**
 - **phpMyAdmin** para administración
+- **SQL**
 
 ## 📸 Demo
 ![Dashboard](screenshots/Dashboard.png)
