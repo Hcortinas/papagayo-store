@@ -22,6 +22,7 @@
 ## 📸 Demo
 ![Dashboard](screenshots/Dashboard.png)
 ![Inventario](screenshots/Inventario.png)
+![Deudas](screenshots/Deudas.png)
 
 ---
 ⭐ **Proyecto educativo** — Datos de ejemplo y sin credenciales reales.
