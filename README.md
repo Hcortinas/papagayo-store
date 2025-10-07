@@ -23,6 +23,6 @@
 ![Dashboard](screenshots/Dashboard.png)
 ![Inventario](screenshots/Inventario.png)
 ![Deudas](screenshots/Deudas.png)
-![Ventas Diarias](screenshots/VentasDiarias.png)
+![Ventas Diarias](screenshots/Ventasdiarias.png)
 ---
 ⭐ **Proyecto educativo** — Datos de ejemplo y sin credenciales reales.
