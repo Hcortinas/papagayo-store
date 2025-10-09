@@ -24,5 +24,6 @@
 ![Inventario](screenshots/Inventario.png)
 ![Deudas](screenshots/Deudas.png)
 ![Ventas Diarias](screenshots/Ventasdiarias.png)
+![ReStock](screenshots/Restock.png)
 ---
 ⭐ **Proyecto educativo** — Datos de ejemplo y sin credenciales reales.
