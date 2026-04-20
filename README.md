@@ -10,8 +10,6 @@
 
 Designed and developed from scratch to replace a manual sales process. The system centralizes point-of-sale operations, inventory tracking, and financial reporting across multiple product categories serving 50,000+ annual visitors.
 
-> ⚠️ Source code is private — proprietary to Museo Interactivo Papagayo. Available for review upon request.
-
 ---
 
 ## Features
