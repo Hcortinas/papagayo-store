@@ -2,7 +2,7 @@
 
 > Full-stack sales & inventory management system built for **Museo Interactivo Papagayo**, currently in daily production use by staff.
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/Dashboard.png)
 
 ---
 
@@ -58,16 +58,16 @@ Designed and developed from scratch to replace a manual sales process. The syste
 ## Screenshots
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Daily Sales Report
-![Sales](screenshots/sales.png)
+![Sales](screenshots/Ventasdiarias.png)
 
 ### Inventory Panel
-![Inventory](screenshots/inventory.png)
+![Inventory](screenshots/Inventario.png)
 
 ### Debt Management
-![Debts](screenshots/debts.png)
+![Debts](screenshots/Deudas.png)
 
 ---
 
