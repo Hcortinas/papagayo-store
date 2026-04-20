@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Prueba Chart.js</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h2>Gráfica de prueba</h2>
+  <canvas id="miGrafica" width="400" height="200"></canvas>
+  <script>
+    const ctx = document.getElementById('miGrafica').getContext('2d');
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['A', 'B', 'C'],
+        datasets: [{
+          label: 'Prueba',
+          data: [12, 19, 3],
+          backgroundColor: ['red', 'green', 'blue']
+        }]
+      }
+    });
+  </script>
+</body>
+</html>
